@@ -1,0 +1,1541 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/index.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/about.html",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/attic-crawl-space-rodent-cleanup.html",
+      "destination": "/attic-crawl-space-rodent-cleanup",
+      "permanent": true
+    },
+    {
+      "source": "/backyard-outdoor-rodent-control.html",
+      "destination": "/backyard-outdoor-rodent-control",
+      "permanent": true
+    },
+    {
+      "source": "/blog.html",
+      "destination": "/blog",
+      "permanent": true
+    },
+    {
+      "source": "/contact.html",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/garage-basement-rodent-control.html",
+      "destination": "/garage-basement-rodent-control",
+      "permanent": true
+    },
+    {
+      "source": "/locations.html",
+      "destination": "/locations",
+      "permanent": true
+    },
+    {
+      "source": "/mouse-control.html",
+      "destination": "/mouse-control",
+      "permanent": true
+    },
+    {
+      "source": "/privacy-policy.html",
+      "destination": "/privacy-policy",
+      "permanent": true
+    },
+    {
+      "source": "/rat-control.html",
+      "destination": "/rat-control",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-addison.html",
+      "destination": "/rodent-control-addison",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-algonquin.html",
+      "destination": "/rodent-control-algonquin",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-alsip.html",
+      "destination": "/rodent-control-alsip",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-alton.html",
+      "destination": "/rodent-control-alton",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-antioch.html",
+      "destination": "/rodent-control-antioch",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-arlington-heights.html",
+      "destination": "/rodent-control-arlington-heights",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-aurora.html",
+      "destination": "/rodent-control-aurora",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-barrington.html",
+      "destination": "/rodent-control-barrington",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-bartlett.html",
+      "destination": "/rodent-control-bartlett",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-batavia.html",
+      "destination": "/rodent-control-batavia",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-beardstown.html",
+      "destination": "/rodent-control-beardstown",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-belleville.html",
+      "destination": "/rodent-control-belleville",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-bellwood.html",
+      "destination": "/rodent-control-bellwood",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-belvidere.html",
+      "destination": "/rodent-control-belvidere",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-bensenville.html",
+      "destination": "/rodent-control-bensenville",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-benton.html",
+      "destination": "/rodent-control-benton",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-berkeley.html",
+      "destination": "/rodent-control-berkeley",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-berwyn.html",
+      "destination": "/rodent-control-berwyn",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-bethalto.html",
+      "destination": "/rodent-control-bethalto",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-bloomingdale.html",
+      "destination": "/rodent-control-bloomingdale",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-bloomington.html",
+      "destination": "/rodent-control-bloomington",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-blue-island.html",
+      "destination": "/rodent-control-blue-island",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-bolingbrook.html",
+      "destination": "/rodent-control-bolingbrook",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-bourbonnais.html",
+      "destination": "/rodent-control-bourbonnais",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-bradley.html",
+      "destination": "/rodent-control-bradley",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-braidwood.html",
+      "destination": "/rodent-control-braidwood",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-bridgeview.html",
+      "destination": "/rodent-control-bridgeview",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-broadview.html",
+      "destination": "/rodent-control-broadview",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-brookfield.html",
+      "destination": "/rodent-control-brookfield",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-buffalo-grove.html",
+      "destination": "/rodent-control-buffalo-grove",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-burbank.html",
+      "destination": "/rodent-control-burbank",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-calumet-city.html",
+      "destination": "/rodent-control-calumet-city",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-canton.html",
+      "destination": "/rodent-control-canton",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-carbondale.html",
+      "destination": "/rodent-control-carbondale",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-carlinville.html",
+      "destination": "/rodent-control-carlinville",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-carol-stream.html",
+      "destination": "/rodent-control-carol-stream",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-carpentersville.html",
+      "destination": "/rodent-control-carpentersville",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-carterville.html",
+      "destination": "/rodent-control-carterville",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-cary.html",
+      "destination": "/rodent-control-cary",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-centralia.html",
+      "destination": "/rodent-control-centralia",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-champaign.html",
+      "destination": "/rodent-control-champaign",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-channahon.html",
+      "destination": "/rodent-control-channahon",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-charleston.html",
+      "destination": "/rodent-control-charleston",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-chatham.html",
+      "destination": "/rodent-control-chatham",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-chester.html",
+      "destination": "/rodent-control-chester",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-chicago-heights.html",
+      "destination": "/rodent-control-chicago-heights",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-chicago-ridge.html",
+      "destination": "/rodent-control-chicago-ridge",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-chillicothe.html",
+      "destination": "/rodent-control-chillicothe",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-cicero.html",
+      "destination": "/rodent-control-cicero",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-clarendon-hills.html",
+      "destination": "/rodent-control-clarendon-hills",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-clinton.html",
+      "destination": "/rodent-control-clinton",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-coal-city.html",
+      "destination": "/rodent-control-coal-city",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-collinsville.html",
+      "destination": "/rodent-control-collinsville",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-columbia.html",
+      "destination": "/rodent-control-columbia",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-country-club-hills.html",
+      "destination": "/rodent-control-country-club-hills",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-crest-hill.html",
+      "destination": "/rodent-control-crest-hill",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-crestwood.html",
+      "destination": "/rodent-control-crestwood",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-crete.html",
+      "destination": "/rodent-control-crete",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-crystal-lake.html",
+      "destination": "/rodent-control-crystal-lake",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-danville.html",
+      "destination": "/rodent-control-danville",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-darien.html",
+      "destination": "/rodent-control-darien",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-decatur.html",
+      "destination": "/rodent-control-decatur",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-deerfield.html",
+      "destination": "/rodent-control-deerfield",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-dekalb.html",
+      "destination": "/rodent-control-dekalb",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-des-plaines.html",
+      "destination": "/rodent-control-des-plaines",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-dixon.html",
+      "destination": "/rodent-control-dixon",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-dolton.html",
+      "destination": "/rodent-control-dolton",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-downers-grove.html",
+      "destination": "/rodent-control-downers-grove",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-du-quoin.html",
+      "destination": "/rodent-control-du-quoin",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-east-alton.html",
+      "destination": "/rodent-control-east-alton",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-east-moline.html",
+      "destination": "/rodent-control-east-moline",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-east-peoria.html",
+      "destination": "/rodent-control-east-peoria",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-edwardsville.html",
+      "destination": "/rodent-control-edwardsville",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-effingham.html",
+      "destination": "/rodent-control-effingham",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-elburn.html",
+      "destination": "/rodent-control-elburn",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-elgin.html",
+      "destination": "/rodent-control-elgin",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-elk-grove-village.html",
+      "destination": "/rodent-control-elk-grove-village",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-elmhurst.html",
+      "destination": "/rodent-control-elmhurst",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-elmwood-park.html",
+      "destination": "/rodent-control-elmwood-park",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-eureka.html",
+      "destination": "/rodent-control-eureka",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-evanston.html",
+      "destination": "/rodent-control-evanston",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-evergreen-park.html",
+      "destination": "/rodent-control-evergreen-park",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-fairview-heights.html",
+      "destination": "/rodent-control-fairview-heights",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-flossmoor.html",
+      "destination": "/rodent-control-flossmoor",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-forest-park.html",
+      "destination": "/rodent-control-forest-park",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-fox-lake.html",
+      "destination": "/rodent-control-fox-lake",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-frankfort.html",
+      "destination": "/rodent-control-frankfort",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-franklin-park.html",
+      "destination": "/rodent-control-franklin-park",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-freeport.html",
+      "destination": "/rodent-control-freeport",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-galesburg.html",
+      "destination": "/rodent-control-galesburg",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-geneseo.html",
+      "destination": "/rodent-control-geneseo",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-geneva.html",
+      "destination": "/rodent-control-geneva",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-genoa.html",
+      "destination": "/rodent-control-genoa",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-gilberts.html",
+      "destination": "/rodent-control-gilberts",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-glen-carbon.html",
+      "destination": "/rodent-control-glen-carbon",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-glen-ellyn.html",
+      "destination": "/rodent-control-glen-ellyn",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-glencoe.html",
+      "destination": "/rodent-control-glencoe",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-glendale-heights.html",
+      "destination": "/rodent-control-glendale-heights",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-glenview.html",
+      "destination": "/rodent-control-glenview",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-glenwood.html",
+      "destination": "/rodent-control-glenwood",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-godfrey.html",
+      "destination": "/rodent-control-godfrey",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-granite-city.html",
+      "destination": "/rodent-control-granite-city",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-grayslake.html",
+      "destination": "/rodent-control-grayslake",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-greenville.html",
+      "destination": "/rodent-control-greenville",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-gurnee.html",
+      "destination": "/rodent-control-gurnee",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-hampshire.html",
+      "destination": "/rodent-control-hampshire",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-hanover-park.html",
+      "destination": "/rodent-control-hanover-park",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-harrisburg.html",
+      "destination": "/rodent-control-harrisburg",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-harvard.html",
+      "destination": "/rodent-control-harvard",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-harvey.html",
+      "destination": "/rodent-control-harvey",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-harwood-heights.html",
+      "destination": "/rodent-control-harwood-heights",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-hazel-crest.html",
+      "destination": "/rodent-control-hazel-crest",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-herrin.html",
+      "destination": "/rodent-control-herrin",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-hickory-hills.html",
+      "destination": "/rodent-control-hickory-hills",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-highland.html",
+      "destination": "/rodent-control-highland",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-highland-park.html",
+      "destination": "/rodent-control-highland-park",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-highwood.html",
+      "destination": "/rodent-control-highwood",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-hillsboro.html",
+      "destination": "/rodent-control-hillsboro",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-hillside.html",
+      "destination": "/rodent-control-hillside",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-hinsdale.html",
+      "destination": "/rodent-control-hinsdale",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-hoffman-estates.html",
+      "destination": "/rodent-control-hoffman-estates",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-homer-glen.html",
+      "destination": "/rodent-control-homer-glen",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-homewood.html",
+      "destination": "/rodent-control-homewood",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-huntley.html",
+      "destination": "/rodent-control-huntley",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-island-lake.html",
+      "destination": "/rodent-control-island-lake",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-itasca.html",
+      "destination": "/rodent-control-itasca",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-jacksonville.html",
+      "destination": "/rodent-control-jacksonville",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-jerseyville.html",
+      "destination": "/rodent-control-jerseyville",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-joliet.html",
+      "destination": "/rodent-control-joliet",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-justice.html",
+      "destination": "/rodent-control-justice",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-kankakee.html",
+      "destination": "/rodent-control-kankakee",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-kewanee.html",
+      "destination": "/rodent-control-kewanee",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-la-grange.html",
+      "destination": "/rodent-control-la-grange",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-la-grange-park.html",
+      "destination": "/rodent-control-la-grange-park",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-la-salle.html",
+      "destination": "/rodent-control-la-salle",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-lake-bluff.html",
+      "destination": "/rodent-control-lake-bluff",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-lake-forest.html",
+      "destination": "/rodent-control-lake-forest",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-lake-in-the-hills.html",
+      "destination": "/rodent-control-lake-in-the-hills",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-lake-villa.html",
+      "destination": "/rodent-control-lake-villa",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-lake-zurich.html",
+      "destination": "/rodent-control-lake-zurich",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-lansing.html",
+      "destination": "/rodent-control-lansing",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-lemont.html",
+      "destination": "/rodent-control-lemont",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-libertyville.html",
+      "destination": "/rodent-control-libertyville",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-lincoln.html",
+      "destination": "/rodent-control-lincoln",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-lincolnshire.html",
+      "destination": "/rodent-control-lincolnshire",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-lincolnwood.html",
+      "destination": "/rodent-control-lincolnwood",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-lisle.html",
+      "destination": "/rodent-control-lisle",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-litchfield.html",
+      "destination": "/rodent-control-litchfield",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-lockport.html",
+      "destination": "/rodent-control-lockport",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-lombard.html",
+      "destination": "/rodent-control-lombard",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-loves-park.html",
+      "destination": "/rodent-control-loves-park",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-lyons.html",
+      "destination": "/rodent-control-lyons",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-machesney-park.html",
+      "destination": "/rodent-control-machesney-park",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-macomb.html",
+      "destination": "/rodent-control-macomb",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-mahomet.html",
+      "destination": "/rodent-control-mahomet",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-manhattan.html",
+      "destination": "/rodent-control-manhattan",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-manteno.html",
+      "destination": "/rodent-control-manteno",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-marengo.html",
+      "destination": "/rodent-control-marengo",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-marion.html",
+      "destination": "/rodent-control-marion",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-markham.html",
+      "destination": "/rodent-control-markham",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-maryville.html",
+      "destination": "/rodent-control-maryville",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-mascoutah.html",
+      "destination": "/rodent-control-mascoutah",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-matteson.html",
+      "destination": "/rodent-control-matteson",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-mattoon.html",
+      "destination": "/rodent-control-mattoon",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-maywood.html",
+      "destination": "/rodent-control-maywood",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-mchenry.html",
+      "destination": "/rodent-control-mchenry",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-melrose-park.html",
+      "destination": "/rodent-control-melrose-park",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-mendota.html",
+      "destination": "/rodent-control-mendota",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-metropolis.html",
+      "destination": "/rodent-control-metropolis",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-midlothian.html",
+      "destination": "/rodent-control-midlothian",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-minooka.html",
+      "destination": "/rodent-control-minooka",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-mokena.html",
+      "destination": "/rodent-control-mokena",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-moline.html",
+      "destination": "/rodent-control-moline",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-monee.html",
+      "destination": "/rodent-control-monee",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-monmouth.html",
+      "destination": "/rodent-control-monmouth",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-montgomery.html",
+      "destination": "/rodent-control-montgomery",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-monticello.html",
+      "destination": "/rodent-control-monticello",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-morris.html",
+      "destination": "/rodent-control-morris",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-morton.html",
+      "destination": "/rodent-control-morton",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-morton-grove.html",
+      "destination": "/rodent-control-morton-grove",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-mount-carmel.html",
+      "destination": "/rodent-control-mount-carmel",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-mount-prospect.html",
+      "destination": "/rodent-control-mount-prospect",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-mount-vernon.html",
+      "destination": "/rodent-control-mount-vernon",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-mundelein.html",
+      "destination": "/rodent-control-mundelein",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-murphysboro.html",
+      "destination": "/rodent-control-murphysboro",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-naperville.html",
+      "destination": "/rodent-control-naperville",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-new-lenox.html",
+      "destination": "/rodent-control-new-lenox",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-niles.html",
+      "destination": "/rodent-control-niles",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-normal.html",
+      "destination": "/rodent-control-normal",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-north-aurora.html",
+      "destination": "/rodent-control-north-aurora",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-north-chicago.html",
+      "destination": "/rodent-control-north-chicago",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-northbrook.html",
+      "destination": "/rodent-control-northbrook",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-oak-brook.html",
+      "destination": "/rodent-control-oak-brook",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-oak-forest.html",
+      "destination": "/rodent-control-oak-forest",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-oak-lawn.html",
+      "destination": "/rodent-control-oak-lawn",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-oak-park.html",
+      "destination": "/rodent-control-oak-park",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-ofallon.html",
+      "destination": "/rodent-control-ofallon",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-olney.html",
+      "destination": "/rodent-control-olney",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-orland-park.html",
+      "destination": "/rodent-control-orland-park",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-oswego.html",
+      "destination": "/rodent-control-oswego",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-ottawa.html",
+      "destination": "/rodent-control-ottawa",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-palatine.html",
+      "destination": "/rodent-control-palatine",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-palos-heights.html",
+      "destination": "/rodent-control-palos-heights",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-palos-hills.html",
+      "destination": "/rodent-control-palos-hills",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-pana.html",
+      "destination": "/rodent-control-pana",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-paris.html",
+      "destination": "/rodent-control-paris",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-park-forest.html",
+      "destination": "/rodent-control-park-forest",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-park-ridge.html",
+      "destination": "/rodent-control-park-ridge",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-pekin.html",
+      "destination": "/rodent-control-pekin",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-peoria.html",
+      "destination": "/rodent-control-peoria",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-peoria-heights.html",
+      "destination": "/rodent-control-peoria-heights",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-peru.html",
+      "destination": "/rodent-control-peru",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-plainfield.html",
+      "destination": "/rodent-control-plainfield",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-plano.html",
+      "destination": "/rodent-control-plano",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-pontiac.html",
+      "destination": "/rodent-control-pontiac",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-poplar-grove.html",
+      "destination": "/rodent-control-poplar-grove",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-posen.html",
+      "destination": "/rodent-control-posen",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-princeton.html",
+      "destination": "/rodent-control-princeton",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-prospect-heights.html",
+      "destination": "/rodent-control-prospect-heights",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-quincy.html",
+      "destination": "/rodent-control-quincy",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-rantoul.html",
+      "destination": "/rodent-control-rantoul",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-richton-park.html",
+      "destination": "/rodent-control-richton-park",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-river-forest.html",
+      "destination": "/rodent-control-river-forest",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-river-grove.html",
+      "destination": "/rodent-control-river-grove",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-riverdale.html",
+      "destination": "/rodent-control-riverdale",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-riverside.html",
+      "destination": "/rodent-control-riverside",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-robinson.html",
+      "destination": "/rodent-control-robinson",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-rochelle.html",
+      "destination": "/rodent-control-rochelle",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-rock-falls.html",
+      "destination": "/rodent-control-rock-falls",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-rock-island.html",
+      "destination": "/rodent-control-rock-island",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-rockford.html",
+      "destination": "/rodent-control-rockford",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-rockton.html",
+      "destination": "/rodent-control-rockton",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-rolling-meadows.html",
+      "destination": "/rodent-control-rolling-meadows",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-romeoville.html",
+      "destination": "/rodent-control-romeoville",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-roscoe.html",
+      "destination": "/rodent-control-roscoe",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-roselle.html",
+      "destination": "/rodent-control-roselle",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-round-lake.html",
+      "destination": "/rodent-control-round-lake",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-salem.html",
+      "destination": "/rodent-control-salem",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-sandwich.html",
+      "destination": "/rodent-control-sandwich",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-savoy.html",
+      "destination": "/rodent-control-savoy",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-schaumburg.html",
+      "destination": "/rodent-control-schaumburg",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-schiller-park.html",
+      "destination": "/rodent-control-schiller-park",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-shorewood.html",
+      "destination": "/rodent-control-shorewood",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-silvis.html",
+      "destination": "/rodent-control-silvis",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-skokie.html",
+      "destination": "/rodent-control-skokie",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-south-beloit.html",
+      "destination": "/rodent-control-south-beloit",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-south-elgin.html",
+      "destination": "/rodent-control-south-elgin",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-south-holland.html",
+      "destination": "/rodent-control-south-holland",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-spring-grove.html",
+      "destination": "/rodent-control-spring-grove",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-spring-valley.html",
+      "destination": "/rodent-control-spring-valley",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-springfield.html",
+      "destination": "/rodent-control-springfield",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-steger.html",
+      "destination": "/rodent-control-steger",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-sterling.html",
+      "destination": "/rodent-control-sterling",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-streamwood.html",
+      "destination": "/rodent-control-streamwood",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-streator.html",
+      "destination": "/rodent-control-streator",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-sugar-grove.html",
+      "destination": "/rodent-control-sugar-grove",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-sycamore.html",
+      "destination": "/rodent-control-sycamore",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-taylorville.html",
+      "destination": "/rodent-control-taylorville",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-tinley-park.html",
+      "destination": "/rodent-control-tinley-park",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-troy.html",
+      "destination": "/rodent-control-troy",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-university-park.html",
+      "destination": "/rodent-control-university-park",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-urbana.html",
+      "destination": "/rodent-control-urbana",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-vandalia.html",
+      "destination": "/rodent-control-vandalia",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-vernon-hills.html",
+      "destination": "/rodent-control-vernon-hills",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-villa-park.html",
+      "destination": "/rodent-control-villa-park",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-warrenville.html",
+      "destination": "/rodent-control-warrenville",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-washington.html",
+      "destination": "/rodent-control-washington",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-waterloo.html",
+      "destination": "/rodent-control-waterloo",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-wauconda.html",
+      "destination": "/rodent-control-wauconda",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-waukegan.html",
+      "destination": "/rodent-control-waukegan",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-west-chicago.html",
+      "destination": "/rodent-control-west-chicago",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-west-frankfort.html",
+      "destination": "/rodent-control-west-frankfort",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-westchester.html",
+      "destination": "/rodent-control-westchester",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-western-springs.html",
+      "destination": "/rodent-control-western-springs",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-westmont.html",
+      "destination": "/rodent-control-westmont",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-wheaton.html",
+      "destination": "/rodent-control-wheaton",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-wheeling.html",
+      "destination": "/rodent-control-wheeling",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-willow-springs.html",
+      "destination": "/rodent-control-willow-springs",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-willowbrook.html",
+      "destination": "/rodent-control-willowbrook",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-wilmette.html",
+      "destination": "/rodent-control-wilmette",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-wilmington.html",
+      "destination": "/rodent-control-wilmington",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-winfield.html",
+      "destination": "/rodent-control-winfield",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-winnetka.html",
+      "destination": "/rodent-control-winnetka",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-winthrop-harbor.html",
+      "destination": "/rodent-control-winthrop-harbor",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-wood-dale.html",
+      "destination": "/rodent-control-wood-dale",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-wood-river.html",
+      "destination": "/rodent-control-wood-river",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-woodridge.html",
+      "destination": "/rodent-control-woodridge",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-woodstock.html",
+      "destination": "/rodent-control-woodstock",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-worth.html",
+      "destination": "/rodent-control-worth",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-yorkville.html",
+      "destination": "/rodent-control-yorkville",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-control-zion.html",
+      "destination": "/rodent-control-zion",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-exclusion-entry-point-sealing.html",
+      "destination": "/rodent-exclusion-entry-point-sealing",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-inspection-estimates.html",
+      "destination": "/rodent-inspection-estimates",
+      "permanent": true
+    },
+    {
+      "source": "/rodent-trapping-removal.html",
+      "destination": "/rodent-trapping-removal",
+      "permanent": true
+    },
+    {
+      "source": "/services.html",
+      "destination": "/services",
+      "permanent": true
+    },
+    {
+      "source": "/vehicle-car-rodent-removal.html",
+      "destination": "/vehicle-car-rodent-removal",
+      "permanent": true
+    }
+  ]
+}
